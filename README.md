@@ -19,3 +19,8 @@ export default {
 
 ## 组件传值, 通过props接收
 `<hover-menu :id="id"></hover-menu>`
+
+## 插件地址
+
+- 搜索快捷菜单，悬浮导航即可
+https://ext.dcloud.net.cn/plugin?id=2223
